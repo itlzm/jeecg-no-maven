@@ -6,8 +6,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <!-- context path -->
 <t:base type="jquery,easyui"></t:base>
-<script type="text/javascript" src="plug-in/Highcharts-2.2.5/js/highcharts.src.js"></script>
-<script type="text/javascript" src="plug-in/Highcharts-2.2.5/js/modules/exporting.src.js"></script>
+<script type="text/javascript" src="plug-in/Highcharts-6.0.4/code/highcharts.src.js"></script>
+<script type="text/javascript" src="plug-in/Highcharts-6.0.4/code/modules/exporting.src.js"></script>
 <c:set var="ctxPath" value="${pageContext.request.contextPath}" />
 <script type="text/javascript">
 	$(function() {
